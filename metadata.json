@@ -1,0 +1,11 @@
+{
+  "name": "LEADENT AI - Personal Academic Learning Agent",
+  "description": "Know Your Level. Plan Your Journey. Master Your Skills. AI-powered personal academic learning agent.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
